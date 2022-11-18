@@ -1,0 +1,4 @@
+*.html
+*.liquid
+*.json
+vendor
