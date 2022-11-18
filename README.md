@@ -22,4 +22,4 @@ To execute the script
 
 ```
 ./liquid-cli.rb [liquid template file] [json payload file] [output file name]
-```[
+```
